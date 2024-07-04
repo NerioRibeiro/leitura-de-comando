@@ -1,0 +1,13 @@
+#Tele_de_criação_de_desenhos{
+    width: 210.8vh;
+    height: 70vh;
+    background-color: rgb(7, 0, 0);
+    border: 15px solid rgb(10, 1, 1);
+}
+
+#Tela_de_texto_de_leitura_do_usuário{
+    width: 97.6%;
+    height: 19vh;
+    background-color: black;
+    border: 15px solid rgb(4, 0, 0);
+}

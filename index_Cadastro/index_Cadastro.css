@@ -1,0 +1,154 @@
+#cadastro {
+	background:#2c7da0;
+	width: 100%;
+	margin-left: 0%;
+}
+
+h1, h3, h4, #cadastro, .buttonConcluirCadastro{
+	font-family:ola;
+	src: url(/fontes/Madino.otf);
+}
+
+.hrCadastro{
+	width: 90%;
+    position: relative;
+    top: 10px;
+}
+
+.hrCadastro1{
+	width: 70%;
+    position: relative;
+    bottom: 20px;
+}
+
+.labelcadastro{
+	font-size: 30px;
+	display: block;
+	
+	
+}
+
+.inputcadastro, .data{
+	width: 40%;
+	height: 40px;
+	margin-left: 0px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	padding: 5px 20px;
+	font-size: 21px;
+	
+	
+}
+
+#formCadastro{
+	text-align: left;
+	margin-left: 20px;
+	position: relative;
+	top: 20px;
+	
+}
+
+.h1cadastro{
+	text-align: center;
+    font-size: 150px;
+    position: relative;
+    bottom: 65px;
+	margin-bottom: 0px;
+	color: #ADD8E6;
+
+}
+
+.imagem-logo1{
+	position: absolute;
+    bottom: 127px;
+    margin-left: 18em;
+    border-radius: 1000px;
+    width: 30%;
+}
+.imagem-logo2{
+	position: absolute;
+    bottom: 130px;
+    margin-left: 8em;
+    border-radius: 1000px;
+    width: 28%;
+}
+.imagem-logo3{
+	position: absolute;
+    bottom: 144px;
+    margin-left: 5em;
+    border-radius: 1000px;
+    width: 15%;
+}
+.imagem-logo4{
+	position: absolute;
+    bottom: 150px;
+    margin-left: 2em;
+    border-radius: 1000px;
+    width: 10%;
+}
+
+#l{
+	margin-top:10px;
+}
+
+.buttonConcluirCadastro{
+	color: #0066aa;
+    width: 70%;
+    height: 60pt;
+    background-color: #fffc34;
+    font-size: 30pt;
+    border-radius: 1000px;
+    cursor: pointer;
+    position: relative;
+	top: 100px;
+    
+}
+#data {
+	width: 215px;
+	height: 50px;
+    border-radius: 20px;
+    padding: 0px 20px;
+    font-size: 21px;
+    position: relative;
+    bottom: 18px;
+}
+.f{
+	bottom: 15%;
+}
+#ulFooter{
+	display: grid;
+    grid-template-columns: auto auto auto ;
+    padding: 10px;
+    padding-bottom: 5px;
+    
+	flex-direction: column-reverse;
+    justify-items: center;
+    text-align: center;
+    font-size: 23px;
+    margin-top: 1%;
+    margin-left: 13%;
+}
+.logo{
+	width: 200px;
+    border-radius: 1000px;
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 6%;
+    margin-left: 4%;
+}
+
+.divHrCadastro{
+	margin-right: 30px;
+	margin-left: 30px;
+}
+.divFooter{
+	background: #ADD8E6;
+	height: 280px;
+	position: relative;
+	top: 200px;
+	padding-top: 48px;
+}
+li{
+	list-style: none;
+	margin-top: 15px;
+}
